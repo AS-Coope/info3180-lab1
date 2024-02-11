@@ -1,12 +1,11 @@
 :root {
-  --large-font: 32px;
-  --reg-font: 18px;
+  --large-font: 2.2rem;
+  --reg-font: 1.1rem;
 }
 
 body {
   /* Use industrial font style from modernfontstacks*/
   font-family: Bahnschrift, 'DIN Alternate', 'Franklin Gothic Medium', 'Nimbus Sans Narrow', sans-serif-condensed, sans-serif;
-  font-size: 14px;
   line-height: 1.5;
   margin: 0;
 }
