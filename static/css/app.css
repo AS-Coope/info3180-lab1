@@ -23,3 +23,10 @@ h1 {
   background-color: hsl(59, 94%, 45%);
   /*yellow*/
 }
+
+p {
+  margin: 0;
+  padding-top: 2rem;
+  padding-left: 3rem;
+  font-size: var(--reg-font);
+}
