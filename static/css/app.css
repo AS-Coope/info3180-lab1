@@ -34,3 +34,8 @@ p {
   color: hsl(12, 95%, 38%);
   font-weight: 800;
 }
+
+.img-container {
+  display: flex;
+  justify-content: center;
+}
