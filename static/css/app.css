@@ -18,8 +18,9 @@ h1 {
 
   font-size: var(--large-font);
   text-align: center;
+  color: white;
 
-  background-color: hsl(59, 94%, 45%);
+  background-color: hsl(281, 85%, 26%);
   /*yellow*/
 }
 
@@ -31,7 +32,7 @@ p {
 }
 
 .important {
-  color: hsl(12, 95%, 38%);
+  color: hsl(281, 42%, 40%);
   font-weight: 800;
 }
 
