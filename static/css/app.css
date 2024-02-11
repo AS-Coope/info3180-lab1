@@ -12,7 +12,13 @@ body {
 }
 
 h1 {
+  margin: 0;
+  padding-top: 2rem;
+  height: 5rem;
+
   font-size: var(--large-font);
+  text-align: center;
+
   background-color: hsl(59, 94%, 45%);
   /*yellow*/
 }
