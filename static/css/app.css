@@ -30,3 +30,8 @@ p {
   padding-left: 3rem;
   font-size: var(--reg-font);
 }
+
+.important {
+  color: hsl(12, 95%, 38%);
+  font-weight: 800;
+}
