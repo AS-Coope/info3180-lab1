@@ -39,3 +39,9 @@ p {
   display: flex;
   justify-content: center;
 }
+
+img {
+  width: 35rem;
+  height: auto;
+  border-radius: 2rem;
+}
