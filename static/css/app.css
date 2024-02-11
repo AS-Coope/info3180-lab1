@@ -39,6 +39,8 @@ p {
 .img-container {
   display: flex;
   justify-content: center;
+
+  margin-top: 1rem;
 }
 
 img {
